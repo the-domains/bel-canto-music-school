@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-10T23:34:08.845Z'
-dateModified: '2015-12-10T23:15:20.835Z'
+datePublished: '2015-12-10T23:41:38.020Z'
+dateModified: '2015-12-10T23:40:59.163Z'
 title: Qualifications
 author: []
 sourcePath: _posts/2015-12-10-qualifications.md
