@@ -1,6 +1,6 @@
 name: Bel Canto Music School
 favicon: null
-layout_spectrum: 0.90833
+layout_spectrum: 0.54031
 typography_spectrum: 0.9375220709480345
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#050503'
+    - '#67553f'
+    - '#b49984'
+    - '#e5cba6'
   brandStrength: 0.3970573367550969
   lightness: 0.5368684707209468
   saturation: 0.2491352881770581
