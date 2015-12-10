@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: from Monique Ayres
-datePublished: '2015-12-10T23:17:09.614Z'
-dateModified: '2015-12-10T23:17:05.655Z'
+datePublished: '2015-12-10T23:41:29.927Z'
+dateModified: '2015-12-10T23:41:21.477Z'
 title: Piano and Violin lessons in Bristol
 author: []
 sourcePath: _posts/2015-12-10-piano-and-violin-lessons-in-bristol.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: piano-and-violin-lessons-in-bristol/index.html
+_type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/760cc5418f1e8eaa98d30f38edf9a868451c61dc.jpg)
