@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-11T16:15:59.993Z'
-dateModified: '2015-12-11T16:15:48.174Z'
+datePublished: '2015-12-11T16:39:39.781Z'
+dateModified: '2015-12-11T16:39:29.829Z'
 title: Ages and levels
 author: []
+sourcePath: _posts/2015-12-11-ages-and-levels.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-11-ages-and-levels.md
-published: true
 url: ages-and-levels/index.html
 _type: Article
 
@@ -35,3 +35,4 @@ I encourage parents/carers to meet for an initial meeting and will regularly dis
 Currently I teach up to Grade 8 piano and Grade 6 violin.
 
 Musical Theory to Grade 8\.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2cf33ac-664c-4f36-8be4-673460707ea9.jpg)
