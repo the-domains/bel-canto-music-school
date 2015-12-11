@@ -1,7 +1,7 @@
 name: Bel Canto Music School
 favicon: null
-layout_spectrum: 0.36882
-typography_spectrum: 0.9375220709480345
+layout_spectrum: 0.24936
+typography_spectrum: 0.76989
 title: Violin and piano lessons with Monique Ayres
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#67553f'
     - '#b49984'
     - '#e5cba6'
-  brandStrength: 0.3970573367550969
-  lightness: 0.5368684707209468
+  brandStrength: 0.3125
+  lightness: 0.5
   saturation: 0.2491352881770581
   rhythmicContrast: 0.5
 purpose: []
